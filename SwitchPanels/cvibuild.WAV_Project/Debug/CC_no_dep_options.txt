@@ -1,0 +1,1 @@
+-force-include-file "Main.c";"e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c" -force-include-file "WAV_Interface.h";"e:\01-University\Personal\APD-Proiect\SwitchPanels\WAV_Interface.h" 

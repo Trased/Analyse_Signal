@@ -1,0 +1,80 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:84:5"
+
+[OnWave]
+Class="Function"
+Prototype="int OnWave(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:103:17"
+
+[OnFreq]
+Class="Function"
+Prototype="int OnFreq(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:121:17"
+
+[OnLoad]
+Class="Function"
+Prototype="int OnLoad(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:140:17"
+
+[OnPrev]
+Class="Function"
+Prototype="int OnPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:328:17"
+
+[OnNext]
+Class="Function"
+Prototype="int OnNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:349:17"
+
+[GraphSelection]
+Class="Function"
+Prototype="int GraphSelection(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:371:17"
+
+[FreqGraphSelection]
+Class="Function"
+Prototype="int FreqGraphSelection(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:667:17"
+
+[OnFreqPrev]
+Class="Function"
+Prototype="int OnFreqPrev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:796:17"
+
+[OnFreqNext]
+Class="Function"
+Prototype="int OnFreqNext(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:817:17"
+
+[OnFreqApply]
+Class="Function"
+Prototype="int OnFreqApply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:840:17"
+
+[OnNrPointsUpdate]
+Class="Function"
+Prototype="int OnNrPointsUpdate(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:852:17"
+
+[OnApply]
+Class="Function"
+Prototype="int OnApply(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:869:17"
+
+[OnDev]
+Class="Function"
+Prototype="int OnDev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:888:17"
+
+[OnEnvelope]
+Class="Function"
+Prototype="int OnEnvelope(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:911:17"
+
+[OnPanels]
+Class="Function"
+Prototype="int OnPanels(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="e:\01-University\Personal\APD-Proiect\SwitchPanels\Main.c:926:17"
+
